@@ -1,3 +1,4 @@
-flour, water, salt, egg, prep, strands, cook, rating, comments
-150g, 77g, 2g, , "knead x400, rest 15min, knead x200, rest 15min, rest 2hr", 4, 1.5min, 3, "Thick strands were doughy, make them thinner next time"
-150g, 71.2g, 2.2g, , "knead x400, rest 15min, knead x200, rest 15min, rest 1hr", 4, 1.5min, 1, "Way too doughy and hard.  Use more water next time."
+date, flour, water, salt, egg, prep, pull_count, cook, rating, comments
+2019-01-01, 150g, 77g, 2g, , "knead x400, rest 15min, knead x200, rest 15min, rest 2hr", 2, 1.5min, 3, "Thick strands were doughy, make them thinner next time"
+2019-01-14, 150g, 71.2g, 2.2g, , "knead x400, rest 15min, knead x200, rest 15min, rest 1hr", 2, 1.5min, 1, "Way too doughy and hard.  Use more water next time."
+2019-02-17, 150g, 84.5g, 2g, , "knead x400, rest 15min, knead x200, rest 15min, rest 2hr", 3, 1.5min, 4, "Much easier to pull"
