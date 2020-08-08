@@ -1,12 +1,6 @@
 # 🍜 noodles
 
-Keeping logs of my progress on making Chinese hand pulled noodles.
-
-## Logs
-
-`csv` files can be interactively previewed on Github.
-
-- [Noodles](./noodles-log.csv)
+Keeping [logs](./logs.csv) of my progress on making Chinese hand pulled noodles.
 
 ## Resources:
 
