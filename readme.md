@@ -1,6 +1,6 @@
-# Noodles 🍜
+# 🍜 noodles
 
-Keeping logs of my progress on making Chinese homemade noodles.
+Keeping logs of my progress on making Chinese hand pulled noodles.
 
 ## Logs
 
